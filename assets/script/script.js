@@ -12,7 +12,7 @@ let interval = setInterval(function(){
     } else if (counter == message_len) {
         interval.clearInterval()
     }
-}, 50)
+}, 28)
 
 
 //App Theme
