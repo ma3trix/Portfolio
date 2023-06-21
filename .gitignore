@@ -1,0 +1,28 @@
+.DS_Store         # macOS Finder metadata file
+Thumbs.db         # Windows thumbnail cache file
+
+*.tmp             # Any temporary files
+*.log             # Log files
+*.bak             # Backup files
+build/            # Build artifacts directory
+dist/             # Distribution directory
+
+node_modules/     # Node.js dependencies directory
+vendor/           # Composer or package dependencies directory
+*.jar             # Java Archive files
+
+.idea/            # JetBrains IntelliJ IDEA directory
+.vscode/          # Visual Studio Code directory
+.project          # Eclipse project file
+.classpath        # Eclipse classpath file
+
+
+*.class           # Java class files
+*.pyc             # Python compiled files
+
+
+.env              # Environment variable configuration file
+secrets.yml       # Sensitive configuration file
+credentials.json  # Google Cloud Platform credentials file
+
+
